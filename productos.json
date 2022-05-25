@@ -1,0 +1,71 @@
+[
+  { "categoria": "juguete", "nombre": "auto", "precio": 100, "stock": 10 },
+  {
+    "categoria": "juguete",
+    "nombre": "playstation2",
+    "precio": 2000,
+    "stock": 7
+  },
+  {
+    "categoria": "juguete",
+    "nombre": "playstation3",
+    "precio": 2000,
+    "stock": 7
+  },
+  {
+    "categoria": "juguete",
+    "nombre": "playstation4",
+    "precio": 2200,
+    "stock": 8
+  },
+  { "categoria": "juguete", "nombre": "avion", "precio": 150, "stock": 6 },
+  { "categoria": "consumible", "nombre": "leche", "precio": 30, "stock": 30 },
+  { "categoria": "consumible", "nombre": "gaseosa", "precio": 80, "stock": 40 },
+  { "categoria": "consumible", "nombre": "alfajor", "precio": 30, "stock": 15 },
+  { "categoria": "consumible", "nombre": "fideos", "precio": 50, "stock": 20 },
+  { "categoria": "consumible", "nombre": "pollo", "precio": 90, "stock": 8 },
+  { "categoria": "consumible", "nombre": "bife", "precio": 100, "stock": 8 },
+  {
+    "categoria": "consumible",
+    "nombre": "ensalada",
+    "precio": 80,
+    "stock": 12
+  },
+  { "categoria": "consumible", "nombre": "fruta", "precio": 10, "stock": 60 },
+  {
+    "categoria": "electrodomestico",
+    "nombre": "horno",
+    "precio": 5000,
+    "stock": 3
+  },
+  {
+    "categoria": "electrodomestico",
+    "nombre": "heladera",
+    "precio": 4500,
+    "stock": 5
+  },
+  {
+    "categoria": "electrodomestico",
+    "nombre": "microondas",
+    "precio": 4000,
+    "stock": 5
+  },
+  {
+    "categoria": "electrodomestico",
+    "nombre": "tostadora",
+    "precio": 2500,
+    "stock": 7
+  },
+  {
+    "categoria": "electrodomestico",
+    "nombre": "lucuadora",
+    "precio": 1600,
+    "stock": 6
+  },
+  {
+    "categoria": "electrodomestico",
+    "nombre": "cafetera",
+    "precio": 2000,
+    "stock": 2
+  }
+]
