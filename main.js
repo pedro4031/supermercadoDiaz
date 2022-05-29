@@ -622,6 +622,7 @@ function runCliente(nombre) {
       position: "center",
       style: { background: "rgb(112, 255, 56)" },
     }).showToast();
+    cargarCarrito();
   }
 
   mostrarProds();
